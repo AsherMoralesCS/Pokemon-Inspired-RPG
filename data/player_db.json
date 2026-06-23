@@ -1,0 +1,124 @@
+{
+  "Asher": {
+    "password_hash": "7c5c041cf7492c34bbd0228f0cbd355be23c398d37ef081676b0bd340ff0c80a",
+    "party": [
+      {
+        "species_id": "water_stage1",
+        "level": 10,
+        "exp": 8100,
+        "hp_current": 75,
+        "evolution_stage": 1,
+        "moves": [
+          "aqua_shot",
+          "iron_guard",
+          "scratch",
+          "recover"
+        ]
+      }
+    ],
+    "game_completed": false,
+    "position": {
+      "x": 18,
+      "y": 12
+    },
+    "battle_npc_defeated": false
+  },
+  "_test_save": {
+    "password_hash": "d74ff0ee8da3b9806b18c877dbf29bbde50b5bd8e4dad7a3a725000feb82e8f1",
+    "party": [
+      {
+        "species_id": "fire_stage1",
+        "level": 10,
+        "exp": 8100,
+        "hp_current": 42,
+        "evolution_stage": 1,
+        "moves": [
+          "ember_strike",
+          "iron_guard",
+          "scratch",
+          "recover"
+        ]
+      }
+    ],
+    "game_completed": false,
+    "position": {
+      "x": 7,
+      "y": 8
+    },
+    "battle_npc_defeated": false
+  },
+  "Asherd": {
+    "password_hash": "10d41f9ed2dd5559c1741f6978523728115f6654d79e89737dc973b6c7dc38d0",
+    "party": [
+      {
+        "species_id": "water_stage2",
+        "level": 11,
+        "exp": 10100,
+        "hp_current": 109,
+        "evolution_stage": 2,
+        "moves": [
+          "aqua_shot",
+          "iron_guard",
+          "scratch",
+          "recover"
+        ]
+      }
+    ],
+    "game_completed": false,
+    "position": {
+      "x": 19,
+      "y": 14
+    },
+    "battle_npc_defeated": false
+  },
+  "Ashersd": {
+    "password_hash": "c6858edfbb02437bff8fce1efbe5472b5d822f86ea7fdb7142b8a17fa3bedda4",
+    "party": [
+      {
+        "species_id": "water_stage1",
+        "level": 10,
+        "exp": 8100,
+        "hp_current": 75,
+        "evolution_stage": 1,
+        "moves": [
+          "aqua_shot",
+          "iron_guard",
+          "scratch",
+          "recover"
+        ]
+      }
+    ],
+    "game_completed": false,
+    "position": {
+      "x": 8,
+      "y": 11
+    },
+    "battle_npc_defeated": false,
+    "guide_tutorial_completed": true
+  },
+  "Ashrrrtty": {
+    "password_hash": "f640bb4a600366b3aa4108603903f101915982c2a8b50589427ddfb45a8fc9b3",
+    "party": [
+      {
+        "species_id": "water_stage2",
+        "level": 10,
+        "exp": 9340,
+        "hp_current": 105,
+        "evolution_stage": 2,
+        "moves": [
+          "aqua_shot",
+          "iron_guard",
+          "scratch",
+          "recover"
+        ]
+      }
+    ],
+    "game_completed": false,
+    "position": {
+      "x": 10,
+      "y": 11
+    },
+    "battle_npc_defeated": false,
+    "guide_tutorial_completed": true
+  }
+}

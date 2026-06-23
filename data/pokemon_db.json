@@ -1,0 +1,110 @@
+{
+  "water_stage1": {
+    "name": "Aqualet",
+    "type": "water",
+    "evolution_stage": 1,
+    "evolves_to": "water_stage2",
+    "evolve_level": 10,
+    "base_stats": {"hp": 40, "attack": 12, "defense": 10, "special_attack": 13, "special_defense": 11, "speed": 14},
+    "stat_growth": {"hp": 3.5, "attack": 1.2, "defense": 1.0, "special_attack": 1.1, "special_defense": 1.0, "speed": 1.3},
+    "base_exp_yield": 40,
+    "sprite_front": "assets/sprites/pokemon/water1_front.png",
+    "sprite_back": "assets/sprites/pokemon/water1_back.png"
+  },
+  "water_stage2": {
+    "name": "Torrentail",
+    "type": "water",
+    "evolution_stage": 2,
+    "evolves_to": "water_stage3",
+    "evolve_level": 25,
+    "base_stats": {"hp": 65, "attack": 20, "defense": 18, "special_attack": 22, "special_defense": 19, "speed": 22},
+    "stat_growth": {"hp": 4.0, "attack": 1.5, "defense": 1.3, "special_attack": 1.4, "special_defense": 1.2, "speed": 1.5},
+    "base_exp_yield": 90,
+    "sprite_front": "assets/sprites/pokemon/water2_front.png",
+    "sprite_back": "assets/sprites/pokemon/water2_back.png"
+  },
+  "water_stage3": {
+    "name": "Leviathan",
+    "type": "water",
+    "evolution_stage": 3,
+    "evolves_to": null,
+    "evolve_level": null,
+    "base_stats": {"hp": 90, "attack": 30, "defense": 28, "special_attack": 32, "special_defense": 26, "speed": 28},
+    "stat_growth": {"hp": 4.5, "attack": 1.8, "defense": 1.6, "special_attack": 1.7, "special_defense": 1.5, "speed": 1.7},
+    "base_exp_yield": 180,
+    "sprite_front": "assets/sprites/pokemon/water3_front.png",
+    "sprite_back": "assets/sprites/pokemon/water3_back.png"
+  },
+  "grass_stage1": {
+    "name": "Sproutling",
+    "type": "grass",
+    "evolution_stage": 1,
+    "evolves_to": "grass_stage2",
+    "evolve_level": 10,
+    "base_stats": {"hp": 42, "attack": 11, "defense": 12, "special_attack": 12, "special_defense": 13, "speed": 12},
+    "stat_growth": {"hp": 3.6, "attack": 1.1, "defense": 1.2, "special_attack": 1.2, "special_defense": 1.3, "speed": 1.2},
+    "base_exp_yield": 40,
+    "sprite_front": "assets/sprites/pokemon/grass1_front.png",
+    "sprite_back": "assets/sprites/pokemon/grass1_back.png"
+  },
+  "grass_stage2": {
+    "name": "Thornvine",
+    "type": "grass",
+    "evolution_stage": 2,
+    "evolves_to": "grass_stage3",
+    "evolve_level": 25,
+    "base_stats": {"hp": 68, "attack": 19, "defense": 22, "special_attack": 21, "special_defense": 23, "speed": 18},
+    "stat_growth": {"hp": 4.2, "attack": 1.4, "defense": 1.5, "special_attack": 1.5, "special_defense": 1.6, "speed": 1.4},
+    "base_exp_yield": 90,
+    "sprite_front": "assets/sprites/pokemon/grass2_front.png",
+    "sprite_back": "assets/sprites/pokemon/grass2_back.png"
+  },
+  "grass_stage3": {
+    "name": "Floramight",
+    "type": "grass",
+    "evolution_stage": 3,
+    "evolves_to": null,
+    "evolve_level": null,
+    "base_stats": {"hp": 95, "attack": 28, "defense": 30, "special_attack": 30, "special_defense": 32, "speed": 24},
+    "stat_growth": {"hp": 4.8, "attack": 1.7, "defense": 1.8, "special_attack": 1.8, "special_defense": 1.9, "speed": 1.6},
+    "base_exp_yield": 180,
+    "sprite_front": "assets/sprites/pokemon/grass3_front.png",
+    "sprite_back": "assets/sprites/pokemon/grass3_back.png"
+  },
+  "fire_stage1": {
+    "name": "Emberpup",
+    "type": "fire",
+    "evolution_stage": 1,
+    "evolves_to": "fire_stage2",
+    "evolve_level": 10,
+    "base_stats": {"hp": 38, "attack": 14, "defense": 9, "special_attack": 15, "special_defense": 10, "speed": 15},
+    "stat_growth": {"hp": 3.3, "attack": 1.3, "defense": 0.9, "special_attack": 1.4, "special_defense": 0.9, "speed": 1.4},
+    "base_exp_yield": 40,
+    "sprite_front": "assets/sprites/pokemon/fire1_front.png",
+    "sprite_back": "assets/sprites/pokemon/fire1_back.png"
+  },
+  "fire_stage2": {
+    "name": "Blazewolf",
+    "type": "fire",
+    "evolution_stage": 2,
+    "evolves_to": "fire_stage3",
+    "evolve_level": 25,
+    "base_stats": {"hp": 62, "attack": 24, "defense": 16, "special_attack": 26, "special_defense": 17, "speed": 24},
+    "stat_growth": {"hp": 3.8, "attack": 1.6, "defense": 1.2, "special_attack": 1.7, "special_defense": 1.1, "speed": 1.6},
+    "base_exp_yield": 90,
+    "sprite_front": "assets/sprites/pokemon/fire2_front.png",
+    "sprite_back": "assets/sprites/pokemon/fire2_back.png"
+  },
+  "fire_stage3": {
+    "name": "Infernox",
+    "type": "fire",
+    "evolution_stage": 3,
+    "evolves_to": null,
+    "evolve_level": null,
+    "base_stats": {"hp": 85, "attack": 34, "defense": 22, "special_attack": 36, "special_defense": 24, "speed": 30},
+    "stat_growth": {"hp": 4.3, "attack": 1.9, "defense": 1.4, "special_attack": 2.0, "special_defense": 1.3, "speed": 1.8},
+    "base_exp_yield": 180,
+    "sprite_front": "assets/sprites/pokemon/fire3_front.png",
+    "sprite_back": "assets/sprites/pokemon/fire3_back.png"
+  }
+}
